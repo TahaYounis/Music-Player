@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music App Java</string>
+    <string name="song_name">Song Name</string>
+    <string name="duration">15:30</string>
+    <string name="size">10.7 MB</string>
+    <string name="current_playing_song">Current playing song</string>
+</resources>
